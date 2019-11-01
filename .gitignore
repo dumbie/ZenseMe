@@ -1,0 +1,7 @@
+*.user
+*.pfx
+*.vs
+/ZenseMeResources/obj
+/ZenseMeResources/bin
+/ZenseMeClient/obj
+/ZenseMeClient/bin
